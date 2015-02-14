@@ -1,0 +1,21 @@
+{
+  "name": "new",
+  "version": "0.0.0",
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11",
+    "normalize.css": "~3.0.2",
+    "rem-unit-polyfill": "~1.3.2",
+    "html5shiv": "~3.7.2",
+    "responsive-nav": "codezero-be/responsive-nav#~1.0.0",
+    "bootstrap-sass": "~3.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "dbg/new-project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Glenn Vermeyen",
+            "email": "glenn@designedbyglenn.be"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

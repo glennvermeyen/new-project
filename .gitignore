@@ -1,0 +1,9 @@
+/bower_components
+/node_modules
+/vendor
+/assets/compiled
+.idea
+.sass-cache
+.DS_Store
+composer.phar
+Thumbs.db
