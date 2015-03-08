@@ -1,0 +1,1 @@
+$(".nav").nav(),$(".slider").slick({autoplay:!0,autoplaySpeed:4e3,speed:500});
